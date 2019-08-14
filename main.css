@@ -1,0 +1,26 @@
+
+#here{
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.card{
+align-content: center;
+background-color: grey;
+margin: 25px;
+} 
+
+.card-body{
+    margin: 25px;
+    border-radius: 25px;
+    
+}
+
+#allTeams{
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
